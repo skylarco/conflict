@@ -1,0 +1,15 @@
+1. clone
+2. make your change to names.txt (add your name to the next available line)
+3. commit
+4. wait for my signal
+5. push (attempt)
+
+fail (wrong version)
+-------
+1. fetch
+2. rebase (onto origin/master)
+	3. fix the resulting conflict
+		4. edit conflicts (fix & save)
+		5. mark as resolved
+		6. commit
+7. push again (attempt)
